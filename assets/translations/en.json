@@ -1,0 +1,123 @@
+{
+  "lan":"en",
+  "S1": "Maths",
+  "S2": "Science",
+  "S3": "English",
+  "S4": "Sinhala",
+  "S5": "Buddhist",
+  "S6": "History",
+  "science10Bio": {
+    "0": "Chemical basis of life (Lesson 1)",
+    "1": "Structure and functions of the plant and animal cell (Lesson 6)",
+    "2": "Characteristics of organisms (Lesson 8)",
+    "3": "The world of life (Lesson 13)",
+    "4": "Continuity of life (Lesson 14)",
+    "5": "Inheritance (Lesson 20)"
+  },
+  "science10phy": {
+    "0": "Motion in a straight line (Lesson 2)",
+    "1": "Newton's laws of motion (Lesson 4)",
+    "2": "Friction (Lesson 5)",
+    "3": "Resultant force (Lesson 9)",
+    "4": "Turning efect of force (Lesson 11)",
+    "5": "Equilibrium of forces (Lesson 12)",
+    "6": "Hydrostatic pressure and its applications (Lesson 15)",
+    "7": "Work, energy and power (Lesson 18)",
+    "8": "Current Electricity (Lesson 19)"
+  },
+  "science10che": {
+    "0": "Structure of matter (Lesson 3)",
+    "1": "Quantification of elements and compounds (Lesson 7)",
+    "2": "Chemical bonds (Lesson 10)",
+    "3": "Changes in matter (Lesson 16)",
+    "4": "Rate of reactions (Lesson 17)"
+  },
+  "science11Bio": {
+    "0": "Living tissues (Lesson 1)",
+    "1": "Photosynthesis (Lesson 2)",
+    "2": "Biological processes in human body (Lesson 6)",
+    "3": "Biosphere (Lesson 15)"
+  },
+  "science11phy": {
+    "0": "Waves and their applications (Lesson 4)",
+    "1": "Geometrical Optics (Lesson 5)",
+    "2": "Heat (Lesson 9)",
+    "3": "Power and Energy of Electric Appliances (Lesson 10)",
+    "4": "Electronics (Lesson 11)",
+    "5": "Electromagnetism and Electromagnetic Induction (Lesson 13)"
+  },
+  "science11che": {
+    "0": "Mixtures (Lesson 3)",
+    "1": "Acids, bases and salts (Lesson 7)",
+    "2": "Heat Changes Associated with Chemical Reactions (Lesson 8)",
+    "3": "Electrochemistry (Lesson 12)",
+    "4": "Hydrocarbons and Their Derivatives (Lesson 14)"
+  },
+  "maths10part1": {
+    "0": "Perimeter",
+    "1": "Square Root",
+    "2": "Fractions",
+    "3": "Binomial Expressions",
+    "4": "Congruence of Triangles",
+    "5": "Area",
+    "6": "Factors of Quadratic Expressions",
+    "7": "Triangle 1",
+    "8": "Triangle 2",
+    "9": "Inverse Proportions",
+    "10": "Data Representation",
+    "11": "Latest Common Multiple of Algebraic Expressions",
+    "12": "Algebraic Fractions",
+    "13": "Percentages",
+    "14": "Equations",
+    "15": "Parallelograms 1",
+    "16": "Parallelograms 2",
+    "17": "Sets"
+  },
+  "maths10part2": {
+    "0": "Logarithms 1",
+    "1": "Logarithms 2",
+    "2": "Graphs",
+    "3": "Rate",
+    "4": "Formulae",
+    "5": "Arithmetic Progressions",
+    "6": "Algebraic Inequalities",
+    "7": "Frequency Distributions",
+    "8": "Chords of a Circle",
+    "9": "Constructions",
+    "10": "Surface Area and Volume",
+    "11": "Probability",
+    "12": "Angles in a Circle",
+    "13": "Scale Diagrams"
+  },
+  "maths11part1": {
+    "0": "Real Number",
+    "1": "Indices and Logarithms 1",
+    "2": "Indices and Logarithms 2",
+    "3": "Surface Area of Solids",
+    "4": "Volume of the Solids",
+    "5": "Binomial Expressions",
+    "6": "Algebraic Fractions",
+    "7": "Areas of Plane Figures between Parallel Lines"
+  },
+  "maths11part2": {
+    "0": "Percentages",
+    "1": "Share Market",
+    "2": "Mid Point Theorem",
+    "3": "Graphs",
+    "4": "Equations",
+    "5": "Equiangular Triangles",
+    "6": "Data representation and Interpretation",
+    "7": "Geometric Progressions"
+  },
+  "maths11part3": {
+    "0": "Pythagoras's Theorem",
+    "1": "Trigonometry",
+    "2": "Matrices",
+    "3": "Inequalities",
+    "4": "Cyclic Quadrilaterals",
+    "5": "Tangent",
+    "6": "Constructions",
+    "7": "Sets",
+    "8": "Probability"
+  }
+}
