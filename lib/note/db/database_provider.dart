@@ -9,8 +9,6 @@ class DatabaseProvider{
   static final DatabaseProvider db = DatabaseProvider._();
   static Database _database;
 
-  
-
   Future<Database> get database async{
     print("database is $_database");
     if(_database != null){

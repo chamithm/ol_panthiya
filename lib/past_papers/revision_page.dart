@@ -20,7 +20,7 @@ class _RevisionPageState extends State<RevisionPage> {
   @override
   Widget build(BuildContext context) {
     //EasyLocalization.of(context).locale = Locale(widget.lan);
-    return DefaultTabController(
+    return DefaultTabController(  
       length: 6,
       child: Scaffold(
         backgroundColor: Colors.blueGrey[900],

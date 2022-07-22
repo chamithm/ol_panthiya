@@ -95,7 +95,7 @@ class _ViewPapersEState extends State<ViewPapersE> {
     final file = File('${dir.path}/$fileName');
     await file.writeAsBytes(bytes, flush:true);
     setState(() {
-       pdfFile = file;
+      pdfFile = file;
     });
     var path = await ExtStorage.getExternalStoragePublicDirectory(ExtStorage.DIRECTORY_DCIM);
     String fullPath = "$path/${widget.year} ${widget.subject_name} $category(${widget.lan}).pdf";
