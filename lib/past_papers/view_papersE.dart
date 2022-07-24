@@ -33,6 +33,12 @@ class _ViewPapersEState extends State<ViewPapersE> {
   File fileSync;
   String work = "Loading..!";
 
+<<<<<<< HEAD
+=======
+  //edit somethimg
+  //check the merge and creating branch
+
+>>>>>>> toEditVideo_lessons
   downloadPdf(String fullPath) async{
     File saveFile = File(fullPath);
     await saveFile.writeAsBytes(bytes, flush:true);
