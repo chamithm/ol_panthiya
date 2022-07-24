@@ -33,7 +33,10 @@ class _ViewPapersEState extends State<ViewPapersE> {
   File fileSync;
   String work = "Loading..!";
 
-  //change in view_papers
+<<<<<<< HEAD
+=======
+  //edit somethimg
+>>>>>>> toEditVideo_lessons
 
   downloadPdf(String fullPath) async{
     File saveFile = File(fullPath);
