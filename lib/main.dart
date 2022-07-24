@@ -31,7 +31,8 @@ main() async {
     )
   );
 }
-
+//check test2
+//edit in main class
 class MyApp extends StatelessWidget {
   Widget splashScreen(){
     return new SplashScreen(
